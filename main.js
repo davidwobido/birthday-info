@@ -18,6 +18,7 @@ function createApp() {
     // 📝 The second page should display details about your birthday like the weekday of birth or the days left until you can celebrate again 🎉.
     // 📝 You might want to add the birthday as argument to the creation of the second page
     // 📝 Make sure to remove the enter birthday page before.
+    const s
     alert(`Your birthday is ${birthday}.`);
   });
 
@@ -27,3 +28,6 @@ function createApp() {
 
 // Run the createApp function
 createApp();
+
+
+
