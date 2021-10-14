@@ -41,3 +41,20 @@ h5 {
   align-content: center;
   justify-items: center;
 }
+
+.submitButton {
+  margin: 1rem;
+  padding: 0.5rem;
+  background: var(--color-primary);
+  color: var(--color-background);
+  border: white 0 solid;
+  border-radius: 0.4rem;
+  font-size: 0.65rem;
+  text-transform: uppercase;
+  letter-spacing: 0.15rem;
+}
+
+.form {
+  display: grid;
+  gap: 1em;
+}
